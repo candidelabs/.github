@@ -1,8 +1,8 @@
 ## CANDIDE Labs
 
-![candide-wordmark-logo](link)
+**CANDIDE builds open Account Abstraction Infrastructure & Software, focusing on [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337)**.
 
-**CANDIDE** builds open Account Abstraction infrastructure & software, focusing on [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337)
+![candide-logo-wordmark-dark](https://github.com/candidelabs/.github/assets/7014833/2d8bc3c0-58d1-4e7d-badc-e3ab977ef7c6)
 
 ## Developer Infrastructure
 ### ⚡ **Voltaire ERC-4337 Bundler**
