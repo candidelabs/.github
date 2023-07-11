@@ -21,7 +21,7 @@
 
 ### 📱 **Candide Wallet**
 
-Candide wallet is an open-source mobile smart contrat wallet. It uses social recovery and allows for ERC-20 gas payments. Learn more on our [website](https://www.candidewallet.com)
+Candide wallet is an open-source mobile smart contract wallet. It uses social recovery and allows for ERC-20 gas payments. Learn more on our [website](https://www.candidewallet.com)
 
 #### 🔐 Self-custodial
 
