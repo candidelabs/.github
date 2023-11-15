@@ -1,21 +1,23 @@
-## CANDIDE Labs
+## Candide
 
 [candide.dev](https://candide.dev) 
 
-**CANDIDE builds open Account Abstraction Infrastructure & Software, focusing on [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337)**.
+Candide Atelier is the place to build on open Account Abstraction Infrastructure & Software, focusing on [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) and [Safe Accounts](https://safe.global).
 
-![candide-logo-wordmark-dark](https://github.com/candidelabs/.github/assets/7014833/2d8bc3c0-58d1-4e7d-badc-e3ab977ef7c6)
+![atelier-meta-web](https://github.com/candidelabs/.github/assets/7014833/5090c8d1-31ad-4daf-9efd-adae4c350c35)
 
 ## Developer Infrastructure
 
-### ⚒️ Account Abstraction SDK
+### ⚒️ AbstractionKit
+The Reference SDK to build on Safe with ERC-4337 
 - [Getting Started Guides](https://docs.candide.dev/wallet/guides/getting-started)
 - [@abstractionkit Github Repo](https://github.com/candidelabs/abstractionkit)
 
-### ⚡ **Voltaire ERC-4337 Bundler**
-- [FREE Public RPC Endpoints](https://docs.candide.dev/wallet/bundler/rpc-endpoints)
-- [Docs for RPC methods](https://docs.candide.dev/wallet/bundler/rpc-endpoints)
-- [Github Repo](https://github.com/candidelabs/voltaire)
+### ⚡ **Voltaire**
+ERC-4337 Account Abstraction Bundler
+- [Public RPC Endpoints](https://docs.candide.dev/wallet/bundler/rpc-endpoints)
+- [RPC methods Docs](https://docs.candide.dev/wallet/bundler/rpc-endpoints)
+- [Repo](https://github.com/candidelabs/voltaire)
 
 ### ⛽ **Paymaster**
 - [Paymaster API](https://docs.candide.dev/wallet/paymaster/rpc-methods/) (private beta)
