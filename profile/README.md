@@ -20,7 +20,7 @@ ERC-4337 Account Abstraction Bundler
 - [Repo](https://github.com/candidelabs/voltaire)
 
 ### ⛽ **Paymaster**
-- [Paymaster API](https://docs.candide.dev/wallet/paymaster/rpc-methods/) (private beta)
+- [Paymaster API](https://docs.candide.dev/wallet/paymaster/rpc-methods/)
 - [Paymaster Smart Contract](https://github.com/candidelabs/CandideWalletContracts/blob/main/contracts/paymaster/CandidePaymaster.sol)
 - [Simple Token/Verifying Paymaster Backend](https://github.com/candidelabs/Candide-Paymaster-RPC)
 
