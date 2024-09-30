@@ -50,5 +50,5 @@ Candide wallet is an open-source mobile smart contract wallet. It uses social re
 * App User Guides: https://docs.candidewallet.com
 * Atelier Twitter: https://twitter.com/candidelabs
 * App Twitter: https://twitter.com/candidewallet
-* Discord: https://discord.gg/NM5HakA9nC
+* Discord: https://discord.com/invite/7Xb6ECfNFZ
 * Contribute: https://github.com/candidelabs/candide-mobile-app/issues
